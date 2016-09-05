@@ -1,6 +1,6 @@
-# This is my project
+# This is my future project
 
-This projects does very cool _things_ like showing the **list of movies** 
+It will be amazing and have the **following features**
 
 - item 1
 - item 2
